@@ -5,6 +5,11 @@
 sudo pacman -Sy
 ```
 
+### Fastest Mirrors
+```
+sudo pacman-mirrors --fasttrack 10
+```
+
 ### Packages I Use
 ```
 pamac install yay aria2 speedtest-cli telegram-desktop kdenlive inkscape virtualbox flameshot deepin-terminal neofetch gtop gedit ttf-ubuntu-font-family telegram-desktop soundconverter obs-studio simplescreenrecorder filezilla qbittorrent etcher opera pinta materia-theme ttf-font-awesome ttf-font-awesome-4 ttf-roboto skypeforlinux-stable-bin all-repository-fonts ttf-wps-fonts wps-office wps-office-extension-turkish-dictionary laptop-mode-tools powertop thermald discord pycharm-community-eap
